@@ -1,0 +1,7 @@
+orbitzUrl="https://www.orbitz.com/"
+DFW="DFW"
+SFO="SFO"
+NYC="NYC"
+Dallas="Dallas"
+newYork="New York"
+sanFran="San Fran"
